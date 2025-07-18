@@ -784,7 +784,10 @@ a {
 
 
 .page3 .cards .card3 {
-    background: url(../img/Bright\ Yellow\ and\ Black\ Photographic\ Fitness\ Service\ Website\ \(6\).png);
+    background: url(../img/boxing\ replace\ img.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 393px;
     height: 455px;
     position: relative;
@@ -837,9 +840,10 @@ a {
 }
 
 .page4 .cards .card1 {
-    background: url(../img/Bright\ Yellow\ and\ Black\ Photographic\ Fitness\ Service\ Website\ \(7\).png);
+    background: url(../img/replace\ girl\ 1.jpeg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     width: 380px;
     height: 244px;
     position: relative;
@@ -874,7 +878,7 @@ a {
 
 
 .page4 .cards .card2 {
-    background: url(../img/Bright\ Yellow\ and\ Black\ Photographic\ Fitness\ Service\ Website\ \(8\).png);
+    background: url(../img/replace\ girl\ 2.jpeg);
     background-position: center;
     background-size: cover;
     width: 380px;
